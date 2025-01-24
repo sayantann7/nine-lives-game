@@ -21,7 +21,7 @@ try :
     print(capitalized_definition)
     str = ""
     for j in range(0,9):
-        print("GUESS THE WORD...")
+        print("GUESS THE WORDsss...")
         print(f"LIVES LEFT : {9-j}")
         str = input("ENTER THE WORD : ")
         if(str==word):
